@@ -1,2 +1,4 @@
 git init>>initialise git
 git status>> list all untracked files
+git add -A>> used to add to staging area
+git commit -m "your message">> used to add changes to local repo
